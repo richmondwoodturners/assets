@@ -1,0 +1,187 @@
+[
+  {
+    "description": "Bar Stool",
+    "primary_image": "2017/08/IMG_6013.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "32″ h",
+    "contributor": "Bill Jenkins",
+    "month": "2017-08"
+  },
+  {
+    "description": "Sack Back Windsor Chair",
+    "primary_image": "2017/08/IMG_6015.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Oak",
+      "Ash",
+      "Pine"
+    ],
+    "finish": "",
+    "dimensions": "36″ h",
+    "contributor": "Bob Marchese",
+    "month": "2017-08"
+  },
+  {
+    "description": "Hummingbird Vase",
+    "primary_image": "2017/08/IMG_6017.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "8″ h",
+    "contributor": "Bob Silkensen",
+    "month": "2017-08"
+  },
+  {
+    "description": "Cup",
+    "primary_image": "2017/08/IMG_6006.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Maple"
+    ],
+    "finish": "",
+    "dimensions": "4¾″ h",
+    "contributor": "Bruce Robbins",
+    "month": "2017-08"
+  },
+  {
+    "description": "Two Halves of the Same Log",
+    "primary_image": "2017/08/IMG_6007.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Maple"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Chuck Mosser",
+    "month": "2017-08"
+  },
+  {
+    "description": "Bowl",
+    "primary_image": "2017/08/IMG_6023.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Ambrosia Maple"
+    ],
+    "finish": "",
+    "dimensions": "6½″ dia",
+    "contributor": "Doug Murray",
+    "month": "2017-08"
+  },
+  {
+    "description": "Bowl, Thermally Modified Red Oak",
+    "primary_image": "2017/08/IMG_6024.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Red Oak"
+    ],
+    "finish": "",
+    "dimensions": "6½″ dia",
+    "contributor": "Gordon Kendrick",
+    "month": "2017-08"
+  },
+  {
+    "description": "Pendants",
+    "primary_image": "2017/08/IMG_6018.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "1¾″ dia",
+    "contributor": "Jerry Fisher",
+    "month": "2017-08"
+  },
+  {
+    "description": "",
+    "primary_image": "2017/08/IMG_6016.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "5″ dia",
+    "contributor": "Jim Bumpas",
+    "month": "2017-08"
+  },
+  {
+    "description": "Lidded Bowl",
+    "primary_image": "2017/08/IMG_6021.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Spalted Maple",
+      "Walnut"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Jim Zorn",
+    "month": "2017-08"
+  },
+  {
+    "description": "Lidded Box",
+    "primary_image": "2017/08/IMG_6022.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "African Blackwood",
+      "Spalted Maple",
+      "Bloodwood"
+    ],
+    "finish": "",
+    "dimensions": "6″ h",
+    "contributor": "Jim Zorn",
+    "month": "2017-08"
+  },
+  {
+    "description": "Platter",
+    "primary_image": "2017/08/IMG_6025.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Quilted Maple"
+    ],
+    "finish": "",
+    "dimensions": "8¼″ dia",
+    "contributor": "Joanne Fisher",
+    "month": "2017-08"
+  },
+  {
+    "description": "Bowl",
+    "primary_image": "2017/08/IMG_6005.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Pear"
+    ],
+    "finish": "",
+    "dimensions": "7″ dia",
+    "contributor": "Phil Duffy",
+    "month": "2017-08"
+  },
+  {
+    "description": "Simple Bowl",
+    "primary_image": "2017/08/IMG_6026.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Osage Orange"
+    ],
+    "finish": "",
+    "dimensions": "10″ dia",
+    "contributor": "Ron Bishop",
+    "month": "2017-08"
+  }
+]

@@ -1,0 +1,757 @@
+{
+  "show_and_tell": [
+    {
+      "year": "2015",
+      "month": "05",
+      "gallery": "2015-05-gallery.json",
+      "count": 17
+    },
+    {
+      "year": "2015",
+      "month": "07",
+      "gallery": "2015-07-gallery.json",
+      "count": 12
+    },
+    {
+      "year": "2015",
+      "month": "08",
+      "gallery": "2015-08-gallery.json",
+      "count": 20
+    },
+    {
+      "year": "2015",
+      "month": "09",
+      "gallery": "2015-09-gallery.json",
+      "count": 14
+    },
+    {
+      "year": "2015",
+      "month": "10",
+      "gallery": "2015-10-gallery.json",
+      "count": 13
+    },
+    {
+      "year": "2015",
+      "month": "11",
+      "gallery": "2015-11-gallery.json",
+      "count": 14
+    },
+    {
+      "year": "2016",
+      "month": "01",
+      "gallery": "2016-01-gallery.json",
+      "count": 24
+    },
+    {
+      "year": "2016",
+      "month": "02",
+      "gallery": "2016-02-gallery.json",
+      "count": 23
+    },
+    {
+      "year": "2016",
+      "month": "03",
+      "gallery": "2016-03-gallery.json",
+      "count": 28
+    },
+    {
+      "year": "2016",
+      "month": "04",
+      "gallery": "2016-04-gallery.json",
+      "count": 13
+    },
+    {
+      "year": "2016",
+      "month": "05",
+      "gallery": "2016-05-gallery.json",
+      "count": 20
+    },
+    {
+      "year": "2016",
+      "month": "06",
+      "gallery": "2016-06-gallery.json",
+      "count": 21
+    },
+    {
+      "year": "2016",
+      "month": "07",
+      "gallery": "2016-07-gallery.json",
+      "count": 17
+    },
+    {
+      "year": "2016",
+      "month": "08",
+      "gallery": "2016-08-gallery.json",
+      "count": 11
+    },
+    {
+      "year": "2016",
+      "month": "09",
+      "gallery": "2016-09-gallery.json",
+      "count": 26
+    },
+    {
+      "year": "2016",
+      "month": "10",
+      "gallery": "2016-10-gallery.json",
+      "count": 15
+    },
+    {
+      "year": "2016",
+      "month": "11",
+      "gallery": "2016-11-gallery.json",
+      "count": 26
+    },
+    {
+      "year": "2017",
+      "month": "01",
+      "gallery": "2017-01-gallery.json",
+      "count": 19
+    },
+    {
+      "year": "2017",
+      "month": "02",
+      "gallery": "2017-02-gallery.json",
+      "count": 20
+    },
+    {
+      "year": "2017",
+      "month": "03",
+      "gallery": "2017-03-gallery.json",
+      "count": 18
+    },
+    {
+      "year": "2017",
+      "month": "04",
+      "gallery": "2017-04-gallery.json",
+      "count": 16
+    },
+    {
+      "year": "2017",
+      "month": "05",
+      "gallery": "2017-05-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2017",
+      "month": "06",
+      "gallery": "2017-06-gallery.json",
+      "count": 22
+    },
+    {
+      "year": "2017",
+      "month": "07",
+      "gallery": "2017-07-gallery.json",
+      "count": 26
+    },
+    {
+      "year": "2017",
+      "month": "08",
+      "gallery": "2017-08-gallery.json",
+      "count": 14
+    },
+    {
+      "year": "2017",
+      "month": "09",
+      "gallery": "2017-09-gallery.json",
+      "count": 29
+    },
+    {
+      "year": "2017",
+      "month": "10",
+      "gallery": "2017-10-gallery.json",
+      "count": 19
+    },
+    {
+      "year": "2017",
+      "month": "11",
+      "gallery": "2017-11-gallery.json",
+      "count": 18
+    },
+    {
+      "year": "2018",
+      "month": "01",
+      "gallery": "2018-01-gallery.json",
+      "count": 19
+    },
+    {
+      "year": "2018",
+      "month": "02",
+      "gallery": "2018-02-gallery.json",
+      "count": 23
+    },
+    {
+      "year": "2018",
+      "month": "03",
+      "gallery": "2018-03-gallery.json",
+      "count": 25
+    },
+    {
+      "year": "2018",
+      "month": "04",
+      "gallery": "2018-04-gallery.json",
+      "count": 18
+    },
+    {
+      "year": "2018",
+      "month": "05",
+      "gallery": "2018-05-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2018",
+      "month": "06",
+      "gallery": "2018-06-gallery.json",
+      "count": 27
+    },
+    {
+      "year": "2018",
+      "month": "07",
+      "gallery": "2018-07-gallery.json",
+      "count": 16
+    },
+    {
+      "year": "2018",
+      "month": "08",
+      "gallery": "2018-08-gallery.json",
+      "count": 25
+    },
+    {
+      "year": "2018",
+      "month": "09",
+      "gallery": "2018-09-gallery.json",
+      "count": 31
+    },
+    {
+      "year": "2018",
+      "month": "10",
+      "gallery": "2018-10-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2018",
+      "month": "11",
+      "gallery": "2018-11-gallery.json",
+      "count": 15
+    },
+    {
+      "year": "2018",
+      "month": "12",
+      "gallery": "2018-12-gallery.json",
+      "count": 46
+    },
+    {
+      "year": "2019",
+      "month": "01",
+      "gallery": "2019-01-gallery.json",
+      "count": 32
+    },
+    {
+      "year": "2019",
+      "month": "02",
+      "gallery": "2019-02-gallery.json",
+      "count": 26
+    },
+    {
+      "year": "2019",
+      "month": "03",
+      "gallery": "2019-03-gallery.json",
+      "count": 24
+    },
+    {
+      "year": "2019",
+      "month": "04",
+      "gallery": "2019-04-gallery.json",
+      "count": 19
+    },
+    {
+      "year": "2019",
+      "month": "05",
+      "gallery": "2019-05-gallery.json",
+      "count": 19
+    },
+    {
+      "year": "2019",
+      "month": "06",
+      "gallery": "2019-06-gallery.json",
+      "count": 22
+    },
+    {
+      "year": "2019",
+      "month": "07",
+      "gallery": "2019-07-gallery.json",
+      "count": 18
+    },
+    {
+      "year": "2019",
+      "month": "08",
+      "gallery": "2019-08-gallery.json",
+      "count": 21
+    },
+    {
+      "year": "2019",
+      "month": "09",
+      "gallery": "2019-09-gallery.json",
+      "count": 30
+    },
+    {
+      "year": "2019",
+      "month": "10",
+      "gallery": "2019-10-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2019",
+      "month": "11",
+      "gallery": "2019-11-gallery.json",
+      "count": 22
+    },
+    {
+      "year": "2019",
+      "month": "12",
+      "gallery": "2019-12-gallery.json",
+      "count": 7
+    },
+    {
+      "year": "2023",
+      "month": "01",
+      "gallery": "2023-01-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2023",
+      "month": "02",
+      "gallery": "2023-02-gallery.json",
+      "count": 11
+    },
+    {
+      "year": "2023",
+      "month": "03",
+      "gallery": "2023-03-gallery.json",
+      "count": 18
+    },
+    {
+      "year": "2023",
+      "month": "04",
+      "gallery": "2023-04-gallery.json",
+      "count": 26
+    },
+    {
+      "year": "2023",
+      "month": "05",
+      "gallery": "2023-05-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2023",
+      "month": "06",
+      "gallery": "2023-06-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2023",
+      "month": "07",
+      "gallery": "2023-07-gallery.json",
+      "count": 15
+    },
+    {
+      "year": "2023",
+      "month": "08",
+      "gallery": "2023-08-gallery.json",
+      "count": 14
+    },
+    {
+      "year": "2023",
+      "month": "09",
+      "gallery": "2023-09-gallery.json",
+      "count": 22
+    },
+    {
+      "year": "2023",
+      "month": "10",
+      "gallery": "2023-10-gallery.json",
+      "count": 9
+    },
+    {
+      "year": "2023",
+      "month": "11",
+      "gallery": "2023-11-gallery.json",
+      "count": 11
+    },
+    {
+      "year": "2023",
+      "month": "12",
+      "gallery": "2023-12-gallery.json",
+      "count": 15
+    },
+    {
+      "year": "2024",
+      "month": "01",
+      "gallery": "2024-01-gallery.json",
+      "count": 13
+    },
+    {
+      "year": "2024",
+      "month": "02",
+      "gallery": "2024-02-gallery.json",
+      "count": 16
+    },
+    {
+      "year": "2024",
+      "month": "03",
+      "gallery": "2024-03-gallery.json",
+      "count": 16
+    },
+    {
+      "year": "2024",
+      "month": "04",
+      "gallery": "2024-04-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2024",
+      "month": "05",
+      "gallery": "2024-05-gallery.json",
+      "count": 16
+    },
+    {
+      "year": "2024",
+      "month": "06",
+      "gallery": "2024-06-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2024",
+      "month": "07",
+      "gallery": "2024-07-gallery.json",
+      "count": 13
+    },
+    {
+      "year": "2024",
+      "month": "08",
+      "gallery": "2024-08-gallery.json",
+      "count": 16
+    },
+    {
+      "year": "2024",
+      "month": "09",
+      "gallery": "2024-09-gallery.json",
+      "count": 9
+    },
+    {
+      "year": "2024",
+      "month": "10",
+      "gallery": "2024-10-gallery.json",
+      "count": 12
+    },
+    {
+      "year": "2024",
+      "month": "11",
+      "gallery": "2024-11-gallery.json",
+      "count": 14
+    },
+    {
+      "year": "2024",
+      "month": "12",
+      "gallery": "2024-12-gallery.json",
+      "count": 9
+    },
+    {
+      "year": "2025",
+      "month": "01",
+      "gallery": "2025-01-gallery.json",
+      "count": 7
+    },
+    {
+      "year": "2025",
+      "month": "02",
+      "gallery": "2025-02-gallery.json",
+      "count": 12
+    },
+    {
+      "year": "2025",
+      "month": "03",
+      "gallery": "2025-03-gallery.json",
+      "count": 18
+    },
+    {
+      "year": "2025",
+      "month": "04",
+      "gallery": "2025-04-gallery.json",
+      "count": 12
+    },
+    {
+      "year": "2025",
+      "month": "05",
+      "gallery": "2025-05-gallery.json",
+      "count": 13
+    },
+    {
+      "year": "2025",
+      "month": "06",
+      "gallery": "2025-06-gallery.json",
+      "count": 12
+    },
+    {
+      "year": "2025",
+      "month": "07",
+      "gallery": "2025-07-gallery.json",
+      "count": 12
+    },
+    {
+      "year": "2025",
+      "month": "08",
+      "gallery": "2025-08-gallery.json",
+      "count": 8
+    },
+    {
+      "year": "2025",
+      "month": "09",
+      "gallery": "2025-09-gallery.json",
+      "count": 10
+    },
+    {
+      "year": "2025",
+      "month": "10",
+      "gallery": "2025-10-gallery.json",
+      "count": 13
+    },
+    {
+      "year": "2025",
+      "month": "11",
+      "gallery": "2025-11-gallery.json",
+      "count": 9
+    },
+    {
+      "year": "2025",
+      "month": "12",
+      "gallery": "2025-12-gallery.json",
+      "count": 6
+    },
+    {
+      "year": "2026",
+      "month": "01",
+      "gallery": "2026-01-gallery.json",
+      "count": 5
+    }
+  ],
+  "competition": [
+    {
+      "name": "2016",
+      "gallery": "2016-competition-gallery.json",
+      "count": 36
+    },
+    {
+      "name": "2017",
+      "gallery": "2017-competition-gallery.json",
+      "count": 9
+    }
+  ],
+  "member": [
+    {
+      "name": "Barbara Dill",
+      "gallery": "barbara-dill-gallery.json",
+      "count": 8
+    },
+    {
+      "name": "Bill Buchanan",
+      "gallery": "bill-buchanan-gallery.json",
+      "count": 0
+    },
+    {
+      "name": "Rob Blader",
+      "gallery": "rob-blader-gallery.json",
+      "count": 5
+    },
+    {
+      "name": "Chuck Bajnai",
+      "gallery": "chuck-bajnai-gallery.json",
+      "count": 24
+    },
+    {
+      "name": "Chuck Horton",
+      "gallery": "chuck-horton-gallery.json",
+      "count": 51
+    },
+    {
+      "name": "Cody Walker",
+      "gallery": "cody-walker-gallery.json",
+      "count": 32
+    },
+    {
+      "name": "Dan Currier",
+      "gallery": "dan-currier-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "Dan Luttrell",
+      "gallery": "dan-luttrell-gallery.json",
+      "count": 86
+    },
+    {
+      "name": "Daniel Terry",
+      "gallery": "daniel-terry-gallery.json",
+      "count": 6
+    },
+    {
+      "name": "David Bushman",
+      "gallery": "david-bushman-gallery.json",
+      "count": 33
+    },
+    {
+      "name": "Dave Leslie",
+      "gallery": "dave-leslie-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "David Sterling",
+      "gallery": "david-sterling-gallery.json",
+      "count": 5
+    },
+    {
+      "name": "Izumi Miller",
+      "gallery": "izumi-miller-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "James Kennedy",
+      "gallery": "james-kennedy-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "James Klein",
+      "gallery": "james-klein-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "James McDonough",
+      "gallery": "james-mcdonough-gallery.json",
+      "count": 3
+    },
+    {
+      "name": "Jared Parker",
+      "gallery": "jared-parker-gallery.json",
+      "count": 3
+    },
+    {
+      "name": "Jeanne Sobol",
+      "gallery": "jeanne-sobol-gallery.json",
+      "count": 0
+    },
+    {
+      "name": "Jerry Fisher",
+      "gallery": "jerry-fisher-gallery.json",
+      "count": 9
+    },
+    {
+      "name": "Jerry Harvey",
+      "gallery": "jerry-harvey-gallery.json",
+      "count": 12
+    },
+    {
+      "name": "Jim Thorp",
+      "gallery": "jim-thorp-gallery.json",
+      "count": 5
+    },
+    {
+      "name": "John Daniel",
+      "gallery": "john-daniel-gallery.json",
+      "count": 20
+    },
+    {
+      "name": "Kevin Fitzpatrick",
+      "gallery": "kevin-fitzpatrick-gallery.json",
+      "count": 5
+    },
+    {
+      "name": "Larry Yancey",
+      "gallery": "larry-yancey-gallery.json",
+      "count": 8
+    },
+    {
+      "name": "Luigi D'Amato",
+      "gallery": "luigi-d'amato-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "Mark Polanshek",
+      "gallery": "mark-polanshek-gallery.json",
+      "count": 0
+    },
+    {
+      "name": "Matthew Baker",
+      "gallery": "matthew-baker-gallery.json",
+      "count": 0
+    },
+    {
+      "name": "Meg Shogren",
+      "gallery": "meg-shogren-gallery.json",
+      "count": 9
+    },
+    {
+      "name": "Mike Squire",
+      "gallery": "mike-squire-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "Neal Stublen",
+      "gallery": "neal-stublen-gallery.json",
+      "count": 2
+    },
+    {
+      "name": "Pam Bozkurt",
+      "gallery": "pam-bozkurt-gallery.json",
+      "count": 0
+    },
+    {
+      "name": "Phil Duffy",
+      "gallery": "phil-duffy-gallery.json",
+      "count": 13
+    },
+    {
+      "name": "Ray Deyo",
+      "gallery": "ray-deyo-gallery.json",
+      "count": 23
+    },
+    {
+      "name": "Rob Bickford",
+      "gallery": "rob-bickford-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "Rollie Sheneman",
+      "gallery": "rollie-sheneman-gallery.json",
+      "count": 22
+    },
+    {
+      "name": "Ron Bishop",
+      "gallery": "ron-bishop-gallery.json",
+      "count": 16
+    },
+    {
+      "name": "Scott Synnott",
+      "gallery": "scott-synnott-gallery.json",
+      "count": 4
+    },
+    {
+      "name": "Steve Kellner",
+      "gallery": "steve-kellner-gallery.json",
+      "count": 28
+    },
+    {
+      "name": "Steve Schwartz",
+      "gallery": "steve-schwartz-gallery.json",
+      "count": 26
+    },
+    {
+      "name": "Steve Trail",
+      "gallery": "steve-trail-gallery.json",
+      "count": 1
+    },
+    {
+      "name": "Terry Stephens",
+      "gallery": "terry-stephens-gallery.json",
+      "count": 6
+    }
+  ]
+}

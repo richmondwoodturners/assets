@@ -1,0 +1,67 @@
+[
+  {
+    "description": "Walnut Bowl",
+    "primary_image": "2015/07/2015_07-09_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Walnut"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Rob Blader",
+    "month": "2015-07"
+  },
+  {
+    "description": "",
+    "primary_image": "2016/02/2016_02-22_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry",
+      "Walnut"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Rob Blader",
+    "month": "2016-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2016/05/2016_05-14_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Rob Blader",
+    "month": "2016-05"
+  },
+  {
+    "description": "",
+    "primary_image": "2018/03/IMG_0397.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Walnut"
+    ],
+    "finish": "Liberon Wax",
+    "dimensions": "10″ x 3½″",
+    "contributor": "Rob Blader",
+    "month": "2018-03"
+  },
+  {
+    "description": "First Segmented Pen",
+    "primary_image": "2018/10/IMG_6290.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cocobolo",
+      "Maple"
+    ],
+    "finish": "CA",
+    "dimensions": "",
+    "contributor": "Rob Blader",
+    "month": "2018-10"
+  }
+]

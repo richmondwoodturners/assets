@@ -1,0 +1,81 @@
+[
+  {
+    "description": "Two Awls",
+    "primary_image": "2023/02/Terry_Stevens.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Terry Stephens",
+    "month": "2023-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/04/T_stephens_3.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Terry Stephens",
+    "month": "2023-04"
+  },
+  {
+    "description": "Hatteras-style light house.",
+    "primary_image": "2025/02/1950134c0365743e_IMG_9083.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "White Oak"
+    ],
+    "finish": "Black and white acrylic paint",
+    "dimensions": "",
+    "contributor": "Terry Stephens",
+    "month": "2025-02"
+  },
+  {
+    "description": "Light saber. Made of white oak and a 3D printer using red and black filaments to make the blade and emitter.",
+    "primary_image": "2025/03/1958d93a86400053_IMG_9127.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "White Oak"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Terry Stephens",
+    "month": "2025-03"
+  },
+  {
+    "description": "A piece of pecan from Larry’s Homestead finished with walnut oil and friction polish.",
+    "primary_image": "2025/09/19926a400f1c7df6_IMG_9672.jpg",
+    "secondary_images": [
+      "2025/09/19926a400f1c7df6_IMG_9673.jpg"
+    ],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Pecan"
+    ],
+    "finish": "Walnut oil and friction polish",
+    "dimensions": "",
+    "contributor": "Terry Stephens",
+    "month": "2025-09"
+  },
+  {
+    "description": "",
+    "primary_image": "2025/12/19ae9f0b1d56c63b_IMG_0050.jpg",
+    "secondary_images": [
+      "2025/12/19ae9f0b1d56c63b_IMG_0022.jpg",
+      "2025/12/19ae9f0b1d56c63b_IMG_0023.jpg"
+    ],
+    "category": "Challenge",
+    "wood_species": [
+      "Cedar"
+    ],
+    "finish": "Beeswax and mineral oil mixture",
+    "dimensions": "20″ h x 5″ dia",
+    "contributor": "Terry Stephens",
+    "month": "2025-12"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "description": "",
+    "primary_image": "2023/04/kevin_Fitzpatrick.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Kevin Fitzpatrick",
+    "month": "2023-04"
+  },
+  {
+    "description": "Second practice attempt at a multi-axis turning. 4x4 pine fence post, 4 axes, 6” x 2.75”.",
+    "primary_image": "2025/03/195720f8a2417ba1_image1.jpg",
+    "secondary_images": [],
+    "category": "Challenge",
+    "wood_species": [
+      "Pine"
+    ],
+    "finish": "Danish Oil",
+    "dimensions": "",
+    "contributor": "Kevin Fitzpatrick",
+    "month": "2025-03"
+  },
+  {
+    "description": "Poplar finial, 3.75” x 1” at the widest. Koa finial, 3.125” x 0.375” at the widest.",
+    "primary_image": "2025/06/1974caf72b7455f7_image0.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Poplar",
+      "Koa"
+    ],
+    "finish": "Unfinished",
+    "dimensions": "",
+    "contributor": "Kevin Fitzpatrick",
+    "month": "2025-06"
+  },
+  {
+    "description": "This box illustrates chatoyance in highly figured Hawaiian Koa wood.",
+    "primary_image": "2025/07/197d329b615526dd_Koa Box 2025 2.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Koa",
+      "Walnut"
+    ],
+    "finish": "Five coats of Danish oil",
+    "dimensions": "9″ x 5″ x 4¼″ h",
+    "contributor": "Kevin Fitzpatrick",
+    "month": "2025-07"
+  },
+  {
+    "description": "6” Bradford Pear bowl with a partial natural edge.",
+    "primary_image": "2025/08/19858aab6ffe41db_image0.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Bradford Pear"
+    ],
+    "finish": "Two coats of Danish oil",
+    "dimensions": "",
+    "contributor": "Kevin Fitzpatrick",
+    "month": "2025-08"
+  }
+]

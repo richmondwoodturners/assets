@@ -1,0 +1,89 @@
+[
+  {
+    "description": "Hickory limb from burn pile, finished with walnut oil.",
+    "primary_image": "2025/12/19ad0fab7b92764a_IMG_0182.jpg",
+    "secondary_images": [],
+    "category": "Challenge",
+    "wood_species": [
+      "Hickory"
+    ],
+    "finish": "Walnut oil",
+    "dimensions": "",
+    "contributor": "Cody Walker",
+    "month": "2025-12"
+  },
+  {
+    "description": "Tall martini. 3” Cherry limb.",
+    "primary_image": "2025/12/19ad65db28106196_image2.jpg",
+    "secondary_images": [],
+    "category": "Challenge",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Dan Luttrell",
+    "month": "2025-12"
+  },
+  {
+    "description": "My challenge piece is still a work in progress but will be completed for the party. It is a footed vessel from a Siberian elm branch that fell in our front yard this spring.",
+    "primary_image": "2025/12/19aebc9a69d64c8b_D_Bushman_Quarter_Challenge_ Dec_25.jpg",
+    "secondary_images": [
+      "2025/12/19aebc9a69d64c8b_D_Bushman_Quarter_Challenge_ Dec_25-2.jpg"
+    ],
+    "category": "Challenge",
+    "wood_species": [
+      "Siberian Elm"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "David Bushman",
+    "month": "2025-12"
+  },
+  {
+    "description": "",
+    "primary_image": "2025/12/19ae9f0b1d56c63b_IMG_0050.jpg",
+    "secondary_images": [
+      "2025/12/19ae9f0b1d56c63b_IMG_0022.jpg",
+      "2025/12/19ae9f0b1d56c63b_IMG_0023.jpg"
+    ],
+    "category": "Challenge",
+    "wood_species": [
+      "Cedar"
+    ],
+    "finish": "Beeswax and mineral oil mixture",
+    "dimensions": "20″ h x 5″ dia",
+    "contributor": "Terry Stephens",
+    "month": "2025-12"
+  },
+  {
+    "description": "3” tapered roller bearing. Other specifications N/A.",
+    "primary_image": "2025/12/19ad65db28106196_image0.jpg",
+    "secondary_images": [
+      "2025/12/19ad65db28106196_image1.jpg"
+    ],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Hard Maple",
+      "Dogwood",
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Dan Luttrell",
+    "month": "2025-12"
+  },
+  {
+    "description": "I call this piece Mando because it reminds me of the Mandalorian. It is beech and is finished with wipe-on poly and acrylic paint.",
+    "primary_image": "2025/12/19aebc9a69d64c8b_D_Bushman_Show_and_Tell_Dec_25.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Beech"
+    ],
+    "finish": "Wipe-on poly and acrylic paint",
+    "dimensions": "",
+    "contributor": "David Bushman",
+    "month": "2025-12"
+  }
+]

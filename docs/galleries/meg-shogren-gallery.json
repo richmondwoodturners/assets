@@ -1,0 +1,113 @@
+[
+  {
+    "description": "Niddy Noddy",
+    "primary_image": "2015/07/2015_07-06_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Meg Shogren",
+    "month": "2015-07"
+  },
+  {
+    "description": "Spindle Whorl Sand Casting Molds",
+    "primary_image": "2016/02/2016_02-23_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Meg Shogren",
+    "month": "2016-02"
+  },
+  {
+    "description": "White Oak with Teasel Seed Heads",
+    "primary_image": "2016/04/2016_04-05_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "White Oak"
+    ],
+    "finish": "Beeswax",
+    "dimensions": "",
+    "contributor": "Meg Shogren",
+    "month": "2016-04"
+  },
+  {
+    "description": "Needle Case",
+    "primary_image": "2016/04/2016_04-06_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Meg Shogren",
+    "month": "2016-04"
+  },
+  {
+    "description": "Kolrossing Knife",
+    "primary_image": "2017/07/IMG_8864.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Dogwood"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Meg Shogren",
+    "month": "2017-07"
+  },
+  {
+    "description": "Distaff for Spinning Yarn",
+    "primary_image": "2017/09/IMG_9395.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Dogwood"
+    ],
+    "finish": "",
+    "dimensions": "14″ x 1½″",
+    "contributor": "Meg Shogren",
+    "month": "2017-09"
+  },
+  {
+    "description": "Acorns, Cherry",
+    "primary_image": "2017/11/IMG_9657.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "Unfinished",
+    "dimensions": "",
+    "contributor": "Meg Shogren",
+    "month": "2017-11"
+  },
+  {
+    "description": "Bed Wrench",
+    "primary_image": "2018/01/IMG_0098.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "White Oak"
+    ],
+    "finish": "Unfinished",
+    "dimensions": "15″ x 2½″",
+    "contributor": "Meg Shogren",
+    "month": "2018-01"
+  },
+  {
+    "description": "Elizabethan Ruff Setting Stand",
+    "primary_image": "2018/06/IMG_0939.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Holly"
+    ],
+    "finish": "Unfinished",
+    "dimensions": "16″ h",
+    "contributor": "Meg Shogren",
+    "month": "2018-06"
+  }
+]

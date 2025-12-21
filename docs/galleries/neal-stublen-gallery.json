@@ -1,0 +1,27 @@
+[
+  {
+    "description": "",
+    "primary_image": "2023/03/Scott.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Hackberry",
+      "Date"
+    ],
+    "finish": "Odie's Oil, Walnut Oil",
+    "dimensions": "",
+    "contributor": "Neal Stublen",
+    "month": "2023-03"
+  },
+  {
+    "description": "",
+    "primary_image": "2024/08/PXL_20240729_213507613-EDIT (2).jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Neal Stublen",
+    "month": "2024-08"
+  }
+]

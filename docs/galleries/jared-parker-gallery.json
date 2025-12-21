@@ -1,0 +1,43 @@
+[
+  {
+    "description": "",
+    "primary_image": "2018/01/IMG_0093.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Spalted Maple"
+    ],
+    "finish": "Butcher Block finish",
+    "dimensions": "9″ x 3¼″",
+    "contributor": "Jared Parker",
+    "month": "2018-01"
+  },
+  {
+    "description": "",
+    "primary_image": "2018/02/IMG_0232.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Oak"
+    ],
+    "finish": "Friction Polish",
+    "dimensions": "5″",
+    "contributor": "Jared Parker",
+    "month": "2018-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2025/05/196b18dbe63d8df8_IMG_6229.jpg",
+    "secondary_images": [
+      "2025/05/196b18dbe63d8df8_IMG_6227.jpg"
+    ],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Walnut"
+    ],
+    "finish": "Renaissance wax",
+    "dimensions": "~8″ dia",
+    "contributor": "Jared Parker",
+    "month": "2025-05"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "description": "Natural Edge Box with Top",
+    "primary_image": "2023/03/IMG_6191.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "Ty oil",
+    "dimensions": "",
+    "contributor": "Scott Synnott",
+    "month": "2023-03"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/04/Scott_Synnott_1.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Scott Synnott",
+    "month": "2023-04"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/04/Scott_Synnott_2a.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Scott Synnott",
+    "month": "2023-04"
+  },
+  {
+    "description": "15” cherry bowl.",
+    "primary_image": "2025/04/1961c876bdedc382_IMG_9325.jpg",
+    "secondary_images": [
+      "2025/04/1961c876bdedc382_IMG_9335.jpg",
+      "2025/04/1961c876bdedc382_IMG_9328.jpg"
+    ],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "Tried & True, Danish Oil and Original",
+    "dimensions": "",
+    "contributor": "Scott Synnott",
+    "month": "2025-04"
+  }
+]

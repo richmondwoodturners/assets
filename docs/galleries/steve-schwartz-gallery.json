@@ -1,0 +1,340 @@
+[
+  {
+    "description": "",
+    "primary_image": "2016/05/2016_05-02_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2016-05"
+  },
+  {
+    "description": "",
+    "primary_image": "2016/05/2016_05-20_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2016-05"
+  },
+  {
+    "description": "Steve Schwartz (Turning) and Bob Silkensen (Basketweave)",
+    "primary_image": "2017/02/2017-02-15_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": [
+      "Bob Silkensen",
+      "Steve Schwartz"
+    ],
+    "month": "2017-02"
+  },
+  {
+    "description": "Maple Vase with Poly Finish",
+    "primary_image": "2017/02/2017-02-16_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Maple"
+    ],
+    "finish": "Poly",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2017-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2017/02/2017-02-17_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Osage Orange"
+    ],
+    "finish": "Poly/lacquer",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2017-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2017/04/2017-04-04_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Maple"
+    ],
+    "finish": "Wipe-on poly",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2017-04"
+  },
+  {
+    "description": "",
+    "primary_image": "2017/10/IMG_9524.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Maple"
+    ],
+    "finish": "",
+    "dimensions": "4″ x 8″",
+    "contributor": "Steve Schwartz",
+    "month": "2017-10"
+  },
+  {
+    "description": "",
+    "primary_image": "2017/11/IMG_9664.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Holly"
+    ],
+    "finish": "Lacquer",
+    "dimensions": "4″ x 4″",
+    "contributor": "Steve Schwartz",
+    "month": "2017-11"
+  },
+  {
+    "description": "",
+    "primary_image": "2018/03/IMG_0391.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Sycamore",
+      "Padauk",
+      "Ebony"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2018-03"
+  },
+  {
+    "description": "",
+    "primary_image": "2018/03/IMG_0392.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Red Oak"
+    ],
+    "finish": "Wipe-On Poly",
+    "dimensions": "15″ x 3″",
+    "contributor": "Steve Schwartz",
+    "month": "2018-03"
+  },
+  {
+    "description": "",
+    "primary_image": "2018/06/IMG_0924.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Maple"
+    ],
+    "finish": "Poly",
+    "dimensions": "5″ x 5″ x 5″",
+    "contributor": "Steve Schwartz",
+    "month": "2018-06"
+  },
+  {
+    "description": "Walnut with Rim Bleached and Carved to Look Like Stones",
+    "primary_image": "2018/08/IMG_1116.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Walnut"
+    ],
+    "finish": "Poly",
+    "dimensions": "14″ dia",
+    "contributor": "Steve Schwartz",
+    "month": "2018-08"
+  },
+  {
+    "description": "It Was Lemon-Yellow When Freshly Turned",
+    "primary_image": "2019/11/IMG_0010.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Osage Orange"
+    ],
+    "finish": "Wipe-on Poly",
+    "dimensions": "7″ x 6″",
+    "contributor": "Steve Schwartz",
+    "month": "2019-11"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/05/Steve_schwartz_Kalimba.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2023-05"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/06/Magnnolia_bowl_894.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Magnolia"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2023-06"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/07/903_Osage_Vase_W-_Cover.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Osage Orange"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2023-07"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/08/905_Quilted_Maple_W-_Hummingbirds.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Quilted Maple"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2023-08"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/09/896_Cherry_W-_Squirrels_Alt.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2023-09"
+  },
+  {
+    "description": "",
+    "primary_image": "2023/11/920_-_A-_Ash_Bowl_W-_Lizards.jpg",
+    "secondary_images": [
+      "2023/11/920-B_-_Ash_Bowl_Lizard_Detail.jpg"
+    ],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2023-11"
+  },
+  {
+    "description": "",
+    "primary_image": "2024/02/906_Cherry_W__Dragonflies.jpg",
+    "secondary_images": [
+      "2024/02/906_Cherry_W__Dragonflies_detail.jpg"
+    ],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2024-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2024/04/923_B_Cherry_W__Swallows.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2024-04"
+  },
+  {
+    "description": "",
+    "primary_image": "2024/05/923_White_Oak_Dyed.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "White Oak"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Steve Schwartz",
+    "month": "2024-05"
+  },
+  {
+    "description": "Item 978: Fresh cut Osage Orange and features a screw on lid.",
+    "primary_image": "2025/03/1954dd917d8eb0dc_978 Osage Urn.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Osage Orange"
+    ],
+    "finish": "",
+    "dimensions": "10″ dia x 13″ h",
+    "contributor": "Steve Schwartz",
+    "month": "2025-03"
+  },
+  {
+    "description": "Item 976 is Ash with foxes burned in with pyrography.",
+    "primary_image": "2025/03/1954dd917d8eb0dc_976 Ash Bowl w: Foxes.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Ash"
+    ],
+    "finish": "",
+    "dimensions": "15″ dia x 3″ h",
+    "contributor": "Steve Schwartz",
+    "month": "2025-03"
+  },
+  {
+    "description": "Item #976: Fox Spring",
+    "primary_image": "2025/04/195ce448d4e29982_976 Fox Spring - Sugar Maple.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Sugar Maple"
+    ],
+    "finish": "",
+    "dimensions": "15″ x 2.5″",
+    "contributor": "Steve Schwartz",
+    "month": "2025-04"
+  },
+  {
+    "description": "My Item #990. Red Ambrosia Maple Hollowform with Cocobola threaded Lid.",
+    "primary_image": "2025/07/197a99f863d2933d_990 Maple Vase w: Thresed lid.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Red Ambrosia Maple",
+      "Cocobola"
+    ],
+    "finish": "",
+    "dimensions": "9″ h x 4″ dia",
+    "contributor": "Steve Schwartz",
+    "month": "2025-07"
+  }
+]

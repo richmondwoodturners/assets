@@ -1,0 +1,100 @@
+[
+  {
+    "description": "",
+    "primary_image": "2015/07/2015_07-12_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Barbara Dill",
+    "month": "2015-07"
+  },
+  {
+    "description": "Cedar, Turned and Found",
+    "primary_image": "2015/08/2015_08-19_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cedar"
+    ],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Barbara Dill",
+    "month": "2015-08"
+  },
+  {
+    "description": "Offset Turning Experiment with Chainsaw",
+    "primary_image": "2016/02/2016_02-12_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Barbara Dill",
+    "month": "2016-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2016/05/2016_05-18_gal.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [],
+    "finish": "",
+    "dimensions": "",
+    "contributor": "Barbara Dill",
+    "month": "2016-05"
+  },
+  {
+    "description": "One Piece Multi-Axis Scoop",
+    "primary_image": "2017/10/IMG_9537.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Cherry"
+    ],
+    "finish": "Oil",
+    "dimensions": "",
+    "contributor": "Barbara Dill",
+    "month": "2017-10"
+  },
+  {
+    "description": "Multi-Axis Turning",
+    "primary_image": "2018/02/IMG_0233.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Holly"
+    ],
+    "finish": "Lacquer",
+    "dimensions": "3″ x 3″",
+    "contributor": "Barbara Dill",
+    "month": "2018-02"
+  },
+  {
+    "description": "",
+    "primary_image": "2018/06/IMG_0936.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Holly"
+    ],
+    "finish": "",
+    "dimensions": "10″ x 3″",
+    "contributor": "Barbara Dill",
+    "month": "2018-06"
+  },
+  {
+    "description": "Multi-Axis Sculpture",
+    "primary_image": "2019/11/IMG_0039.jpg",
+    "secondary_images": [],
+    "category": "Show and Tell",
+    "wood_species": [
+      "Holly"
+    ],
+    "finish": "Lacquer",
+    "dimensions": "4″ w",
+    "contributor": "Barbara Dill",
+    "month": "2019-11"
+  }
+]
